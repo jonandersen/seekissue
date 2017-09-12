@@ -1,0 +1,19 @@
+PODS:
+  - FontAwesome.swift (1.2.0)
+  - RxCocoa (3.6.1):
+    - RxSwift (~> 3.6)
+  - RxSwift (3.6.1)
+
+DEPENDENCIES:
+  - FontAwesome.swift
+  - RxCocoa (~> 3.3)
+  - RxSwift (~> 3.3)
+
+SPEC CHECKSUMS:
+  FontAwesome.swift: 60063e3f19ba4801155d4b0f2334ab7585763ab3
+  RxCocoa: 84a08739ab186248c7f31ce4ee92d6f8a947d690
+  RxSwift: f9de85ea20cd2f7716ee5409fc13523dc638e4e4
+
+PODFILE CHECKSUM: 5b82ff421417b37e7ffb50244823e3aa45f409e4
+
+COCOAPODS: 1.2.0
